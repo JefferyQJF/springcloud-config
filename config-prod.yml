@@ -1,1 +1,2 @@
-这个是一个prod环境
+config:
+    info: this is prod version 1.0
