@@ -1,1 +1,2 @@
-这个是一个test环境
+config:
+  info: this is test version1.0;
